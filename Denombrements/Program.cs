@@ -12,6 +12,9 @@ using System.Threading.Tasks;
 
 namespace Denombrements
 {
+    /// <summary>
+    /// Programme 
+    /// </summary>
     class Program
     {
         //déclaration des variables globales
